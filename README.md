@@ -45,3 +45,8 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/archis1405" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/Archisman Das" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archis1405&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
