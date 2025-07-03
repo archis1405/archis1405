@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi 👋 My name is Archisman Das
 
-• 🌍 I'm based in Hyderabad
-• 📧 You can contact me at [archismandas1405@gmail.com](mailto:archismandas1405@gmail.com)
-• 🧠 I'm learning Java , JavaScript , TyprScript , SpringBoot
+• 🌍 I'm based in Hyderabad <br>
+• 📧 You can contact me at [archismandas1405@gmail.com](mailto:archismandas1405@gmail.com) <br>
+• 🧠 I'm learning Java, JavaScript, TypeScript, SpringBoot
+
 
 ## Skills
 
