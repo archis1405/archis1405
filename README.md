@@ -1,7 +1,3 @@
-<!--
-**archis1405/archis1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # 👋 Hi, I'm Archisman Das
 
 • 🌍 Based in **Hyderabad**  
