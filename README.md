@@ -39,7 +39,7 @@
 
 ## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archis1405&layout=compact&theme=tokyonight&langs_count=10&v=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archis1405&layout=compact&theme=tokyonight&langs_count=10&v=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
