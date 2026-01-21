@@ -42,9 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archis1405&theme=dark&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=archis1405&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
-
 ---
 
 # 🚀 Let's Connect
