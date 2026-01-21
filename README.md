@@ -29,21 +29,28 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,hibernate,rabbitmq,redis,mysql,postgres,mongodb,aws,docker,kubernetes,postman,git,linux&theme=dark&perline=12" width="100%" />
 </p>
 
-
-
 ---
 
-# 📊 GitHub Stats:
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibasish5&theme=dark&hide_border=false" />
-</p> -->
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=archis1405&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=archis1405&show_icons=true&theme=dark&hide_border=false" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibasish5&theme=dark&layout=compact&hide_border=false" />
-</p> -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archis1405&layout=compact&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=archis1405&theme=dark&hide_border=false" />
+</p>
 
 ---
 
+# 🚀 Let's Connect
+
+<p align="center">
+  <a href="mailto:archismandas1405@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/archisman-das-037b36241/">💼 LinkedIn</a> •
+  <a href="https://github.com/archis1405">🐙 GitHub</a>
+</p>
