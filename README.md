@@ -41,9 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archis1405&layout=compact&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=archis1405&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
+## 📈 GitHub Activity Graph
+
+![Archisman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=archis1405&theme=github-dark&hide_border=true)
 ---
 
 # 🚀 Let's Connect
