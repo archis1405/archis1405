@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Archisman</h1>
-<h3 align="center">Backend Engineer • Java | Spring Boot | Microservices</h3>
+<h3 align="center">Backend Engineer • JavaScript | TypeScript | NodeJS | Java | Spring Boot | Microservices</h3>
 
 <!-- Social Links -->
 <p align="center">
